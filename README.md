@@ -7,7 +7,7 @@ This snippet is heavily inspired from [Paul Irish](https://twitter.com/paul_iris
 
 He showed all the new stuff coming in Chrome Devtools in the latest version of Chrome (v55). [Here is the link.](https://www.youtube.com/watch?v=HF1luRD4Qmk)
 
-This is HIS idea. I've only managed to reproduce his output from what I've seen on his snippet. 😉
+This is **his** idea. I've only managed to reproduce his output from what I've seen on his snippet. 😉
 
 
 ## Usage
