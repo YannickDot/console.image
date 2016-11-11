@@ -22,7 +22,7 @@ console.image(avatar_url)
 ```
 and you get :
 
-![demo](http://g.recordit.co/0zWsCsrFd7.gif)
+![demo](demo.gif)
 
 
 
