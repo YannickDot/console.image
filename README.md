@@ -3,14 +3,11 @@ A nice snippet to log images in chrome console 🌈
 
 
 ## Why is that ?
-This snippet is heavily inspired from [Paul Irish](https://twitter.com/paul_irish) talk at Chrome Dev Summit.
-He shows all the new stuff coming in Chrome Devtools in the latest version of Chrome (v55).
+This snippet is heavily inspired from [Paul Irish](https://twitter.com/paul_irish) talk at Chrome Dev Summit 2016 on November, 10 2016.
 
-[Check it out!](https://www.youtube.com/watch?v=HF1luRD4Qmk)
+He showed all the new stuff coming in Chrome Devtools in the latest version of Chrome (v55). [Here is the link.](https://www.youtube.com/watch?v=HF1luRD4Qmk)
 
-This is HIS idea.
-
-I've only managed to reproduce his output from what I've seen on his snippet. 😉
+This is HIS idea. I've only managed to reproduce his output from what I've seen on his snippet. 😉
 
 
 ## Usage
