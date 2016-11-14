@@ -2,7 +2,7 @@
   "name": "console.image",
   "version": "1.0.1",
   "description": "A nice snippet to display images in chrome console",
-  "main": "index.js",
+  "main": "dist/console.image.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0",
     "clean-dist": "rimraf dist",

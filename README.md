@@ -10,6 +10,24 @@ He showed all the new stuff coming in Chrome Devtools in the latest version of C
 This is **his** idea. I've only managed to reproduce his output from what I've seen on his snippet. 😉
 
 
+## Installation
+
+You can use it from npm :
+
+```sh
+> npm install console.image
+```
+
+then import it into your code :
+
+```js
+import 'console.image'
+```
+
+And it will add the .image() method on your `console` object in Chrome Devtools.
+
+
+Otherwise you can [copy the code to your Chrome snippets](#snippet).
 ## Usage
 
 ```js
@@ -23,6 +41,7 @@ and you get :
 
 
 
+## Snippet
 
 Here's the code if you want to store it to your Chrome snippets :
 
