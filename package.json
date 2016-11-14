@@ -4,7 +4,7 @@
   "description": "A nice snippet to display images in chrome console",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 0",
     "clean-dist": "rimraf dist",
     "prestart": "npm run clean-dist",
     "build": "npm run prestart && webpack --env.prod"
