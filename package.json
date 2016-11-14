@@ -4,7 +4,10 @@
   "description": "A nice snippet to display images in chrome console",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean-dist": "rimraf dist",
+    "prestart": "npm run clean-dist",
+    "build": "npm run prestart && webpack --env.prod"
   },
   "repository": {
     "type": "git",
@@ -22,5 +25,14 @@
   "bugs": {
     "url": "https://github.com/YannickDot/console.image/issues"
   },
-  "homepage": "https://github.com/YannickDot/console.image#readme"
+  "homepage": "https://github.com/YannickDot/console.image#readme",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-es2016": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "rimraf": "^2.5.4",
+    "webpack": "^2.1.0-beta.26"
+  }
 }
