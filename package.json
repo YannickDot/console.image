@@ -1,6 +1,6 @@
 {
   "name": "console.image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A nice snippet to display images in chrome console",
   "main": "index.js",
   "scripts": {
