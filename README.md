@@ -61,7 +61,7 @@ function renderImage (url, scale = 0.3) {
       background-position: center;
       background-size: contain;
     `
-    console.log('%c', style)
+    console.log('%c ', style)
   }
 
   img.src = url
